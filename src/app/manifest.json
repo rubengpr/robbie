@@ -1,0 +1,20 @@
+{
+  "name": "ParcelOps AI",
+  "short_name": "ParcelOps",
+  "icons": [
+    {
+      "src": "/icon0.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon1.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
