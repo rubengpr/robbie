@@ -1,10 +1,12 @@
-# Robbie
+# Almond
 
 🌱 **AI parcel intelligence for farmers**
 
-Robbie is a hackathon prototype built during the **Tech Europe Paris AI Hackathon**.
+Almond is a hackathon prototype built during the **Tech Europe Paris AI Hackathon**.
 
 It helps a farmer quickly understand what is happening across their land parcels by combining parcel data, weather, public updates, and AI-generated explanations in one simple dashboard.
+
+![Almond landing page](./public/landing-page.png)
 
 ## ✨ What It Does
 
@@ -13,6 +15,8 @@ It helps a farmer quickly understand what is happening across their land parcels
 - Summarizes what needs attention
 - Lets the farmer ask questions through an AI assistant
 - Turns scattered data into practical next steps
+
+![Almond dashboard](./public/dashboard.png)
 
 ## 🤖 AI Features
 
