@@ -1,32 +1,36 @@
 # Robbie
 
-AI-powered parcel intelligence prototype built during the Tech Europe Paris AI Hackathon.
+🌱 **AI parcel intelligence for farmers**
 
-Robbie helps a demo farmer understand what is happening across their land parcels by combining parcel data, weather, public updates, and AI-generated explanations in one dashboard.
+Robbie is a hackathon prototype built during the **Tech Europe Paris AI Hackathon**.
 
-## AI Capabilities
+It helps a farmer quickly understand what is happening across their land parcels by combining parcel data, weather, public updates, and AI-generated explanations in one simple dashboard.
 
-- **Parcel assistant:** answers questions about parcel status, risks, weather, crops, and recommended next actions.
-- **AI summaries:** turns mixed parcel signals into short, farmer-friendly explanations.
-- **Voice flow with SLNG:** uses SLNG as a speech-to-text-to-speech layer so the assistant can support spoken briefings and voice-style interactions.
-- **Web/document intelligence with Tavily:** uses Tavily to search the internet, find relevant public documents or official updates, and return useful structured context.
-- **Briefing generation:** creates concise daily-style summaries from parcel, weather, public document, and restriction data.
+## ✨ What It Does
 
-## Hackathon Context
+- Shows parcel and crop information clearly
+- Highlights weather, water, and field risks
+- Summarizes what needs attention
+- Lets the farmer ask questions through an AI assistant
+- Turns scattered data into practical next steps
 
-This was built as a fast prototype for the Tech Europe Paris AI Hackathon. The focus was a clear demo: show how AI can help farmers move from scattered agricultural data to practical decisions.
+## 🤖 AI Features
 
-Some data is mocked or simplified where real integrations would have slowed down the hackathon build.
+- **AI assistant:** answers questions about parcels, crops, risks, and actions
+- **Smart summaries:** explains complex parcel signals in plain language
+- **SLNG voice layer:** supports speech-to-text-to-speech flows for spoken briefings and voice-style interaction
+- **Tavily web search:** searches the internet for useful public documents, official updates, and external context
+- **Daily briefings:** creates short summaries from parcel, weather, document, and restriction data
 
-## Data Represented
+## 🛰️ Data Represented
 
 - Parcel and crop data
 - Weather signals
-- Water restriction information
+- Water restrictions
 - Public documents and official updates
 - Satellite, sensor, and drone-style observations
 
-## Tech Stack
+## 🛠️ Built With
 
 - Next.js
 - TypeScript
@@ -36,6 +40,14 @@ Some data is mocked or simplified where real integrations would have slowed down
 - SLNG
 - Tavily
 
-## Status
+## 🏁 Hackathon Context
 
-Hackathon prototype preserved as a snapshot of the project built in Paris.
+This was built fast for a Paris hackathon demo.
+
+The goal was not to build a full production farming platform. The goal was to show how AI can help farmers move from scattered agricultural data to clear, useful decisions.
+
+Some data is mocked or simplified so the demo stays focused and easy to understand.
+
+## 📌 Status
+
+Hackathon prototype, preserved as a snapshot of the project built in Paris.
